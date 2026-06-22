@@ -123,11 +123,11 @@ ul li:hover{
     font-size:18px;
     font-weight:600;
     cursor:pointer;
-    transition:all 0.3s ease;
+    transition:all 0.4s ease;
 }
 
 .hero-content button:hover{
-    transform: scale(1.08) rotate(-3deg);
+    transform: scale(1.4) rotate(-5deg);
     box-shadow: 0 10px 25px rgba(30,167,253,0.4);
 }
 .hero-image img{
