@@ -127,14 +127,10 @@ ul li:hover{
 }
 
 .hero-content button:hover{
-    transform:translateY(-4px) scale(1.05);
-    box-shadow:0 10px 25px rgba(30,167,253,0.4);
+    transform: scale(1.08) rotate(-3deg);
+    box-shadow: 0 10px 25px rgba(30,167,253,0.4);
 }
-
 .hero-image img{
     width:550px;
     max-width:100%;
-}
-button:hover{
-    
 }
