@@ -1,5 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Style+Script&display=swap');
 *{
-    
     margin:0px;
     padding: 0px;
+}
+ul li{
+    list-style-type: none;
+}
+.nav-baar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 10px;
+    box-shadow: 8px 7px 16px 5px rgb(0 0 0 / 10%);
+}
+.logo{
+    display:flex;
+    align-items:center;
+}
+.logo img{
+    width:100px;
+    height:60px;
+}
+ul{
+    display: flex;
+    gap: 30px;
+    padding: 10px;
+}
+button{
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: rgb(76, 128, 250);
+    background-color: rgba(167, 255, 255, 0.911);
+    border: none;
+}
+.logo p{
+    font-family:"Style Script", cursive;
+    font-size:30px;
+    font-weight:500;
+    color:#333;
 }
